@@ -1,5 +1,7 @@
 # Sistema de Seguimiento de Gastos
 
+BY: Diego Arteaga
+
 ## Descripción
 
 Esta aplicación de terminal permite el seguimiento de gastos personales. Los usuarios pueden registrar sus ingresos y gastos, listar las transacciones ordenadas por fecha y generar un balance financiero que muestra el total de ingresos, gastos y la capacidad de ahorro.
@@ -22,7 +24,7 @@ Esta aplicación de terminal permite el seguimiento de gastos personales. Los us
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu_usuario/seguimiento-de-gastos.git
+    git clone https://github.com/DieGoArt30/Seguimiento_De_Gastos
     cd seguimiento-de-gastos
     ```
 
@@ -68,5 +70,6 @@ Si deseas contribuir al proyecto, por favor realiza un fork del repositorio y en
 #### Manejo de Errores: Se incluyen bloques try-except para manejar posibles errores al cargar los datos desde el archivo.
 Fecha Automática: Las fechas de las transacciones se generan automáticamente en el momento de la creación de la transacción, lo que asegura la precisión y consistencia de los registros.
 
-
+## Contacto:
+Para cualquier consulta o sugerencia, por favor contacta a Diego Aeteaga a traves de diehgohhz.30@gmail.com
 
